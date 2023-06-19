@@ -1,6 +1,8 @@
 # test_pan_client
 
 > A Vue.js project
+> node version - 14.15
+> npm version - 6.14.8
 
 ## Build Setup
 
